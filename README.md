@@ -2,6 +2,9 @@
 Working on a data set of Breast cancer with python using deep libraries and cool visual analysis tools 
 
 
+##UPDATE 
+Unfortenatly I couldn't Upload the notebook file , so I modified the code that you can still see the process. 
+
 
 
 
