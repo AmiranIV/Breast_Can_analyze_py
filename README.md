@@ -1,6 +1,4 @@
-# Breast_Can_analyze_py
-Working on a data set of Breast cancer with python using deep libraries and cool visual analysis tools 
-
+#Deep Learning, on a Breast Cancer Data set.
 
 ##UPDATE 
 Unfortenatly I couldn't Upload the notebook file , so I modified the code that you can still see the process. 
